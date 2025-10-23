@@ -1,0 +1,4 @@
+Bonjour,
+
+Je m'appelle Guillaume, étudiant de 2ème année à l'école ESGI.
+En cours de Git pour ce projet.
